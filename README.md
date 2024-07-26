@@ -15,7 +15,5 @@ Tüm malların ortalama fiyatı: 110.11473333333333
 -------1.d-------
 0. sipariş için 161.0 adet mal sipariş edildi.
 1. sipariş için 297.0 adet mal sipariş edildi.
-2. sipariş için 57.0 adet mal sipariş edildi.```
-
-
-
+2. sipariş için 57.0 adet mal sipariş edildi.
+```
